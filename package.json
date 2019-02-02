@@ -1,0 +1,37 @@
+{
+    "title": "Innovar Construcoes",
+    "name": "Innovar Construcoes",
+    "version": "5.0.2",
+    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/michaelmartins09/innovarconstrucoes.git"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "5.6.3",
+        "bootstrap": "4.2.1",
+        "jquery": "3.3.1",
+        "jquery.easing": "^1.4.1",
+        "magnific-popup": "^1.1.0",
+        "scrollreveal": "4.0.5"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.3",
+        "gulp": "4.0.0",
+        "gulp-autoprefixer": "6.0.0",
+        "gulp-clean-css": "4.0.0",
+        "gulp-header": "2.0.7",
+        "gulp-plumber": "^1.2.1",
+        "gulp-rename": "1.4.0",
+        "gulp-sass": "4.0.2",
+        "gulp-uglify": "3.0.1"
+    }
+}
